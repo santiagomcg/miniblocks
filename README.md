@@ -1,1 +1,2 @@
 # miniblocks
+Pedazos de codigo
